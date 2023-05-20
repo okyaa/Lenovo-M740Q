@@ -1,0 +1,2 @@
+# Lenovo-M740Q
+M740Q自用EFI
