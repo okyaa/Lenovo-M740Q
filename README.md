@@ -1,5 +1,5 @@
 # Lenovo-M740Q
-M740Q自用EFI
+M740Q自用EFI（OC版本0.9.2）
 联想小主机M740Q黑苹果记录见https://www.mstom.com/?p=164 近IPV6可打开。
 
 https://bbs.pcbeta.com/viewthread-1967995-1-2.html 相关记录也在PCBETA上发了。
